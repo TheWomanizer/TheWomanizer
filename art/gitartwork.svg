@@ -1,0 +1,202 @@
+<svg width="550" height="91" xmlns="http://www.w3.org/2000/svg" style="background: none;">
+  <style>
+    @keyframes float1 {
+      0% { opacity: 0; transform: translate(-80px, -120px) rotate(270deg) scale(0.1); }
+      30% { opacity: 0.7; transform: translate(-40px, -60px) rotate(135deg) scale(0.6); }
+      70% { opacity: 0.9; transform: translate(-10px, -15px) rotate(45deg) scale(0.95); }
+      90% { transform: translate(-2px, -3px) rotate(10deg) scale(1.05); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float2 {
+      0% { opacity: 0; transform: translate(90px, -100px) rotate(-240deg) scale(0.15); }
+      25% { opacity: 0.6; transform: translate(60px, -70px) rotate(-160deg) scale(0.5); }
+      65% { opacity: 0.85; transform: translate(20px, -25px) rotate(-60deg) scale(0.9); }
+      85% { transform: translate(4px, -5px) rotate(-15deg) scale(1.02); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float3 {
+      0% { opacity: 0; transform: translate(-70px, 110px) rotate(300deg) scale(0.2); }
+      35% { opacity: 0.8; transform: translate(-45px, 75px) rotate(200deg) scale(0.7); }
+      75% { opacity: 0.95; transform: translate(-12px, 20px) rotate(80deg) scale(0.92); }
+      95% { transform: translate(-3px, 5px) rotate(20deg) scale(1.03); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float4 {
+      0% { opacity: 0; transform: translate(110px, 95px) rotate(-330deg) scale(0.08); }
+      40% { opacity: 0.75; transform: translate(70px, 65px) rotate(-220deg) scale(0.55); }
+      80% { opacity: 0.9; transform: translate(25px, 25px) rotate(-90deg) scale(0.88); }
+      95% { transform: translate(6px, 6px) rotate(-25deg) scale(1.04); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float5 {
+      0% { opacity: 0; transform: translate(-95px, -80px) rotate(360deg) scale(0.12); }
+      20% { opacity: 0.65; transform: translate(-65px, -55px) rotate(250deg) scale(0.45); }
+      60% { opacity: 0.87; transform: translate(-22px, -18px) rotate(100deg) scale(0.85); }
+      80% { transform: translate(-5px, -4px) rotate(30deg) scale(1.01); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float6 {
+      0% { opacity: 0; transform: translate(85px, -75px) rotate(-285deg) scale(0.18); }
+      45% { opacity: 0.7; transform: translate(55px, -50px) rotate(-180deg) scale(0.6); }
+      85% { opacity: 0.92; transform: translate(18px, -16px) rotate(-70deg) scale(0.93); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float7 {
+      0% { opacity: 0; transform: translate(-105px, 85px) rotate(420deg) scale(0.25); }
+      50% { opacity: 0.8; transform: translate(-70px, 58px) rotate(290deg) scale(0.75); }
+      90% { opacity: 0.95; transform: translate(-20px, 17px) rotate(110deg) scale(0.97); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+    @keyframes float8 {
+      0% { opacity: 0; transform: translate(125px, -45px) rotate(-390deg) scale(0.3); }
+      55% { opacity: 0.85; transform: translate(82px, -30px) rotate(-260deg) scale(0.8); }
+      95% { opacity: 0.98; transform: translate(22px, -8px) rotate(-85deg) scale(0.99); }
+      100% { opacity: 1; transform: translate(0, 0) rotate(0) scale(1); }
+    }
+
+    .square {
+      width: 10px;
+      height: 10px;
+      rx: 3px;
+      opacity: 0;
+      animation-duration: 2.2s;
+      animation-fill-mode: forwards;
+      animation-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+
+    .s1 { animation-name: float1; animation-delay: 0.05s; }
+    .s2 { animation-name: float2; animation-delay: 0.1s; }
+    .s3 { animation-name: float3; animation-delay: 0.15s; }
+    .s4 { animation-name: float4; animation-delay: 0.2s; }
+    .s5 { animation-name: float5; animation-delay: 0.25s; }
+    .s6 { animation-name: float6; animation-delay: 0.3s; }
+    .s7 { animation-name: float7; animation-delay: 0.35s; }
+    .s8 { animation-name: float8; animation-delay: 0.4s; }
+    .s9 { animation-name: float1; animation-delay: 0.45s; }
+    .s10 { animation-name: float2; animation-delay: 0.5s; }
+    .s11 { animation-name: float3; animation-delay: 0.55s; }
+    .s12 { animation-name: float4; animation-delay: 0.6s; }
+    .s13 { animation-name: float5; animation-delay: 0.65s; }
+    .s14 { animation-name: float6; animation-delay: 0.7s; }
+    .s15 { animation-name: float7; animation-delay: 0.75s; }
+    .s16 { animation-name: float8; animation-delay: 0.8s; }
+    .s17 { animation-name: float1; animation-delay: 0.85s; }
+    .s18 { animation-name: float2; animation-delay: 0.9s; }
+    .s19 { animation-name: float3; animation-delay: 0.95s; }
+    .s20 { animation-name: float4; animation-delay: 1s; }
+    .s21 { animation-name: float5; animation-delay: 1.05s; }
+    .s22 { animation-name: float6; animation-delay: 1.1s; }
+    .s23 { animation-name: float7; animation-delay: 1.15s; }
+    .s24 { animation-name: float8; animation-delay: 1.2s; }
+    .s25 { animation-name: float1; animation-delay: 1.25s; }
+    .s26 { animation-name: float2; animation-delay: 1.3s; }
+    .s27 { animation-name: float3; animation-delay: 1.35s; }
+    .s28 { animation-name: float4; animation-delay: 1.4s; }
+    .s29 { animation-name: float5; animation-delay: 1.45s; }
+    .s30 { animation-name: float6; animation-delay: 1.5s; }
+    .s31 { animation-name: float7; animation-delay: 1.55s; }
+    .s32 { animation-name: float8; animation-delay: 1.6s; }
+    .s33 { animation-name: float1; animation-delay: 1.65s; }
+    .s34 { animation-name: float2; animation-delay: 1.7s; }
+    .s35 { animation-name: float3; animation-delay: 1.75s; }
+    .s36 { animation-name: float4; animation-delay: 1.8s; }
+    .s37 { animation-name: float5; animation-delay: 1.85s; }
+    .s38 { animation-name: float6; animation-delay: 1.9s; }
+    .s39 { animation-name: float7; animation-delay: 1.95s; }
+    .s40 { animation-name: float8; animation-delay: 2s; }
+    .s41 { animation-name: float1; animation-delay: 2.05s; }
+    .s42 { animation-name: float2; animation-delay: 2.1s; }
+    .s43 { animation-name: float3; animation-delay: 2.15s; }
+    .s44 { animation-name: float4; animation-delay: 2.2s; }
+    .s45 { animation-name: float5; animation-delay: 2.25s; }
+    .s46 { animation-name: float6; animation-delay: 2.3s; }
+    .s47 { animation-name: float7; animation-delay: 2.35s; }
+    .s48 { animation-name: float8; animation-delay: 2.4s; }
+  </style>
+  
+  <!-- Letter M - Más definida -->
+  <!-- Columna izquierda -->
+  <rect class="square s1" x="39" y="13" fill="#033a16"/>
+  <rect class="square s2" x="39" y="26" fill="#196c2e"/>
+  <rect class="square s3" x="39" y="39" fill="#2ea043"/>
+  <rect class="square s4" x="39" y="52" fill="#56d364"/>
+  <rect class="square s5" x="39" y="65" fill="#2ea043"/>
+  <rect class="square s6" x="39" y="78" fill="#033a16"/>
+  
+  <!-- Diagonales izquierda -->
+  <rect class="square s7" x="52" y="26" fill="#56d364"/>
+  <rect class="square s8" x="65" y="39" fill="#033a16"/>
+  
+  <!-- Centro -->
+  <rect class="square s9" x="78" y="52" fill="#196c2e"/>
+  
+  <!-- Diagonales derecha -->
+  <rect class="square s10" x="91" y="39" fill="#2ea043"/>
+  <rect class="square s11" x="104" y="26" fill="#56d364"/>
+  
+  <!-- Columna derecha -->
+  <rect class="square s12" x="117" y="13" fill="#033a16"/>
+  <rect class="square s13" x="117" y="26" fill="#196c2e"/>
+  <rect class="square s14" x="117" y="39" fill="#2ea043"/>
+  <rect class="square s15" x="117" y="52" fill="#56d364"/>
+  <rect class="square s16" x="117" y="65" fill="#2ea043"/>
+  <rect class="square s17" x="117" y="78" fill="#033a16"/>
+
+  <!-- Columna izquierda -->
+  <rect class="square s18" x="143" y="13" fill="#196c2e"/>
+  <rect class="square s19" x="143" y="26" fill="#2ea043"/>
+  <rect class="square s20" x="143" y="39" fill="#56d364"/>
+  <rect class="square s21" x="143" y="52" fill="#033a16"/>
+  <rect class="square s22" x="143" y="65" fill="#196c2e"/>
+  <rect class="square s23" x="143" y="78" fill="#2ea043"/>
+  
+  <!-- Diagonal correcta \ (de arriba-izquierda a abajo-derecha) -->
+  <rect class="square s24" x="156" y="26" fill="#56d364"/>
+  <rect class="square s25" x="169" y="39" fill="#033a16"/>
+  <rect class="square s26" x="182" y="52" fill="#196c2e"/>
+  <rect class="square s27" x="195" y="65" fill="#2ea043"/>
+  
+  <!-- Columna derecha -->
+  <rect class="square s28" x="208" y="13" fill="#56d364"/>
+  <rect class="square s29" x="208" y="26" fill="#033a16"/>
+  <rect class="square s30" x="208" y="39" fill="#196c2e"/>
+  <rect class="square s31" x="208" y="52" fill="#2ea043"/>
+  <rect class="square s32" x="208" y="65" fill="#56d364"/>
+  <rect class="square s33" x="208" y="78" fill="#033a16"/>
+
+  <!-- Fila superior -->
+  <rect class="square s34" x="247" y="13" fill="#196c2e"/>
+  <rect class="square s35" x="260" y="13" fill="#2ea043"/>
+  <rect class="square s36" x="273" y="13" fill="#56d364"/>
+  <rect class="square s37" x="286" y="13" fill="#033a16"/>
+  
+  <!-- Diagonal / completa (de arriba-derecha a abajo-izquierda) -->
+  <rect class="square s38" x="286" y="26" fill="#56d364"/>
+  <rect class="square s39" x="273" y="39" fill="#033a16"/>
+  <rect class="square s40" x="260" y="52" fill="#196c2e"/>
+  <rect class="square s41" x="247" y="65" fill="#2ea043"/>
+  
+  <!-- Fila inferior -->
+  <rect class="square s42" x="247" y="78" fill="#56d364"/>
+  <rect class="square s43" x="260" y="78" fill="#033a16"/>
+  <rect class="square s44" x="273" y="78" fill="#196c2e"/>
+  <rect class="square s45" x="286" y="78" fill="#2ea043"/>
+
+  <!-- Fila superior -->
+  <rect class="square s46" x="325" y="13" fill="#56d364"/>
+  <rect class="square s47" x="338" y="13" fill="#033a16"/>
+  <rect class="square s48" x="351" y="13" fill="#196c2e"/>
+  <rect class="square s1" x="364" y="13" fill="#2ea043"/>
+  
+  <!-- Diagonal / completa (de arriba-derecha a abajo-izquierda) -->
+  <rect class="square s2" x="364" y="26" fill="#56d364"/>
+  <rect class="square s3" x="351" y="39" fill="#033a16"/>
+  <rect class="square s4" x="338" y="52" fill="#196c2e"/>
+  <rect class="square s5" x="325" y="65" fill="#2ea043"/>
+  
+  <!-- Fila inferior -->
+  <rect class="square s6" x="325" y="78" fill="#56d364"/>
+  <rect class="square s7" x="338" y="78" fill="#033a16"/>
+  <rect class="square s8" x="351" y="78" fill="#196c2e"/>
+  <rect class="square s9" x="364" y="78" fill="#2ea043"/>
+</svg>
