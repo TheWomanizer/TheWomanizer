@@ -127,6 +127,7 @@ class ProfessionalEthos:
 ```
 
 ---
+---
 
 <div align="center">
 
@@ -136,6 +137,7 @@ class ProfessionalEthos:
 </div>
 
 
+---
 ---
 
 ## 🚀 **C█rr█nt Pr█j█cts**
@@ -200,6 +202,7 @@ class ProfessionalEthos:
 
 
 ---
+---
 
 
 <div align="center">
@@ -211,4 +214,5 @@ class ProfessionalEthos:
 </div>
 
 
+---
 ---
