@@ -134,6 +134,8 @@ class ProfessionalEthos:
 **- Colossians 3:23**
 
 </div>
+
+
 ---
 
 ## 🚀 **C█rr█nt Pr█j█cts**
@@ -195,7 +197,11 @@ class ProfessionalEthos:
 ★ ★ ★ C L A S S I F I E D ★ ★ ★
 ```
 
+
+
 ---
+
+
 <div align="center">
 
 *In a world of endless code, faith remains the ultimate source code*
