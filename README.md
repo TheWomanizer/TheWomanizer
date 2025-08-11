@@ -71,7 +71,21 @@
 
 </div>
 
+
 ---
+---
+
+<div align="center">
+
+### ⏳ **"For the vision awaits an appointed time; it speaks of the end and will not prove false.  
+Though it lingers, wait for it; it will certainly come and will not delay."**  
+**- Habakkuk 2:3**
+
+</div>
+
+---
+---
+
 
 ## 🌐 **Professional Certifications & Expertise**
 
