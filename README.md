@@ -133,6 +133,7 @@ class ProfessionalEthos:
 ### 🙏 **"Whatever you do, work at it with all your heart, as working for the Lord"**
 **- Colossians 3:23**
 
+</div>
 ---
 
 ## 🚀 **C█rr█nt Pr█j█cts**
@@ -195,6 +196,7 @@ class ProfessionalEthos:
 ```
 
 ---
+<div align="center">
 
 *In a world of endless code, faith remains the ultimate source code*
 
