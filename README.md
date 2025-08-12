@@ -1,4 +1,8 @@
+<br><br>
+
 ![gitartwork](art/gitartwork.svg)
+
+<br><br>
 
 ---
 
