@@ -242,11 +242,14 @@ class ProfessionalEthos:
 ---
 ---
 
-Gracias por seguirme
-Me motiva mucho a constuir algo para hacer el mundo mejor para todos
-Dios te bendiga
-(El usuario es ironico y satirico)
-
+_Gracias por seguirme_ 
+<br>
+_Me motiva mucho a constuir algo para hacer el mundo mejor para todos_ 
+<br>
+_Dios te bendiga_ 
+<br>
+_*(El usuario es ironico y satirico)_*
+<br>
 
 </div>
 
