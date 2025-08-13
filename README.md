@@ -238,8 +238,17 @@ class ProfessionalEthos:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheWomanizer&color=56d364&style=flat-square)
 
+
+---
+---
+
+Gracias por seguirme
+Me motiva mucho a constuir algo para hacer el mundo mejor para todos
+Dios te bendiga
+(El usuario es ironico y satirico)
+
+
 </div>
 
 
----
----
+
