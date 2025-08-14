@@ -14,7 +14,9 @@
 
 ---
 
-## 🛡️ **SYSTEM STATUS: ONLINE**
+<img src="https://octodex.github.com/images/securitocat.png" width="222">
+
+## 🛡️ **SYSTEM STATUS: ONLINE**    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="33" height="33"/>
 
 ### 🔐 **Classified Access Level**
 
@@ -28,8 +30,9 @@
 - 🛡️ **System Hardening & Security** `[ACTIVE]`
 
 ---
+    
+## 💻 **Technical Arsenal** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="22" style="vertical-align: middle;">
 
-## 💻 **Technical Arsenal**
 
 <div align="center">
 
@@ -42,7 +45,10 @@
 
 </div>
 
-### 🎯 **Core Competencies**
+### 🎯 **Core Competencies** 
+
+<div align="center">
+
 
 | **Domain** | **Proficiency** | **Focus Areas** |
 |------------|-----------------|-----------------|
@@ -51,6 +57,11 @@
 | 🔍 **Digital Forensics** | `█████████████████▒▒▒` 85% | Network Analysis, Malware Investigation |
 | 💾 **Backend Development** | `████████████████▒▒▒▒` 80% | APIs, Microservices, Database Design |
 | 🌐 **Network Engineering** | `████████████████▒▒▒▒` 80% | Security Protocols, Traffic Analysis |
+
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="88" height="88" style="vertical-align: middle" />
+
+</div>
 
 ---
 
@@ -69,11 +80,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheWomanizer&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true)
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=TheWomanizer&rank_icon=github&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=compact&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true)
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=donut&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheWomanizer&theme=dark&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&hide_border=true)
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWomanizer&theme=dark&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&hide_border=true" />
 
 </div>
 
@@ -81,7 +92,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ll333ll&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true)
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=ll333ll&rank_icon=github&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true" />
 
 </div>
 
@@ -153,6 +164,8 @@ class ProfessionalEthos:
         return "In God we trust, in code we execute with purpose"
 ```
 
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="222">
+
 ---
 ---
 
@@ -176,21 +189,13 @@ class ProfessionalEthos:
 ```
 
 ### 🛡️ **~~SecureInfra~~ ████████**
-> ~~Enterprise-grade~~ █████████ aut█mation ~~and~~ █████████ ~~suite~~
+> ~~Enterprise-grade~~ █████████ aut█mation ~~and~~ █████████ ~~suite~~ <br>
 > 
-> `[REDACTED]` `[REDACTED]` `[REDACTED]`
-
-||█████████████████████████████████████████████||
-
-### 🔍 **~~OSINT~~ ██vestigation ███████** 
-> ~~Custom~~ rec█nnaissance ~~and~~ ████████████ g██████████ ~~platform~~
-> 
-> ~~D~~█~~e~~█~~e~~█~~p~~ ~~W~~█~~e~~█~~b~~ `[ACCESS DENIED]`
-
-||████████ ███ ████████ ███████ ████████████||
-
-### ⛪ **~~Church~~███████ █████████**
-> ███████ ministry t██ls ~~for~~ ████ ███████████
+> `[REDACTED]` `[REDACTED]` `[REDACTED]` <br>
+> ~~Custom~~ rec█nnaissance ~~and~~ ████████████ g██████████ ~~platform~~ <br>
+>  
+> ~~D~~█~~e~~█~~e~~█~~p~~ ~~W~~█~~e~~█~~b~~ `[ACCESS DENIED]` <br>
+> ███████ ministry t██ls ~~for~~ ████ ███████████ <br>
 > 
 > ```
 > Matthew 6:3-4 > But when you give... [DATA CORRUPTED]
@@ -226,35 +231,7 @@ class ProfessionalEthos:
 ★ ★ ★ C L A S S I F I E D ★ ★ ★
 ```
 
-
-
----
----
-
-
-<div align="center">
-
-*In a world of endless code, faith remains the ultimate source code*
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheWomanizer&color=56d364&style=flat-square)
-
-
----
----
-
-_Gracias por seguirme_ 
 <br>
-_Me motiva mucho a constuir algo para hacer el mundo mejor para todos_ 
-<br>
-_Dios te bendiga_ 
-<br>
-_*(El usuario es ironico y satirico)_*
-<br>
-
-</div>
-
----
----
 
 ```
 ████████╗██╗  ██╗███████╗
@@ -288,5 +265,67 @@ _*(El usuario es ironico y satirico)_*
 
 ```
 
+
 <br><br> 
+
+
+
+---
+---
+
+<br><br><br>
+
+<div align="center">
+
+*In a world of endless code, faith remains the ultimate source code*
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="77" height="77" />
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheWomanizer&color=56d364&style=flat-square)
+
+
+<br>
+
+</div>
+
+---
+---
+
+<br><br><br>
+
+<div align="center">
+
+_Gracias por seguirme_ 
+<br>
+_Me motiva mucho a constuir algo para hacer el mundo mejor para todos_ 
+<br>
+_Dios te bendiga_ 
+<br>
+_*(El usuario es ironico y satirico)_*
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Heart Hands Medium-Light Skin Tone" width="99" height="99" />
+
+</div>
+
+<br><br><br>
+
+---
+---
+
+<p align="center">
+  <img src="https://octodex.github.com/images/homercat.png" alt="Homercat" width="150">
+  <img src="https://octodex.github.com/images/heisencat.png" alt="Heisencat" width="150">
+  <img src="https://octodex.github.com/images/minion.png" alt="Minion" width="150">
+  <img src="https://octodex.github.com/images/murakamicat.png" alt="Minion" width="150">
+</p>
+
+---
+
+
+<div align="center">
+  <img src="https://octodex.github.com/images/baracktocat.jpg" alt="Baracktocat" width="888">
+</div>
 
