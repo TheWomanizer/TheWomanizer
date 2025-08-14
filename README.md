@@ -79,11 +79,9 @@
 
 <div align="center">
 
-  <img width="500" src="https://github-readme-stats.vercel.app/api?username=TheWomanizer&rank_icon=github&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true" />
-
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=donut&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true" />
-
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWomanizer&theme=dark&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&hide_border=true" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=TheWomanizer&rank_icon=github&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true" /> <br>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=donut&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true" /> <br>
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWomanizer&theme=dark&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&hide_border=true" /> <br>
 
 </div>
 
@@ -267,7 +265,6 @@ class ProfessionalEthos:
 <br><br> 
 
 
-
 ---
 ---
 
@@ -282,7 +279,6 @@ class ProfessionalEthos:
 <br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheWomanizer&color=56d364&style=flat-square)
-
 
 <br>
 
@@ -320,19 +316,18 @@ _*(El usuario es ironico y satirico)_*
   <img src="https://octodex.github.com/images/murakamicat.png" alt="Minion" width="150">
 </p>
 
+<br><br>
 
 <div align="center">
-    
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="github-snake" src="dist/github-snake.svg" />
   </picture>
-  
 </div>
 
+<br><br>
 
 <div align="center">
   <img src="https://octodex.github.com/images/baracktocat.jpg" alt="Baracktocat" width="888">
 </div>
-
