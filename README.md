@@ -90,7 +90,7 @@
 <div align="center">
 
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=TheWomanizer&rank_icon=github&show_icons=true&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&icon_color=56d364&hide_border=true" /> <br>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=donut&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true" /> <br>
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWomanizer&layout=donut&theme=dark&bg_color=0d1117&title_color=56d364&text_color=c9d1d9&hide_border=true&size_weight=0.5&count_weight=0.5" /> <br>
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=TheWomanizer&theme=dark&background=0d1117&ring=56d364&fire=56d364&currStreakLabel=56d364&hide_border=true" /> <br>
 
 </div>
