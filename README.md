@@ -14,8 +14,6 @@
 
 ---
 
-<img src="https://octodex.github.com/images/securitocat.png" width="222">
-
 ## 🛡️ **SYSTEM STATUS: ONLINE**    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="33" height="33"/>
 
 ### 🔐 **Classified Access Level**
