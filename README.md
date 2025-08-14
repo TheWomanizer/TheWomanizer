@@ -95,14 +95,6 @@
 
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="github-snake" src="dist/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 ---
 
@@ -328,7 +320,16 @@ _*(El usuario es ironico y satirico)_*
   <img src="https://octodex.github.com/images/murakamicat.png" alt="Minion" width="150">
 </p>
 
----
+
+<div align="center">
+    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+  
+</div>
 
 
 <div align="center">
