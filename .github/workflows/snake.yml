@@ -1,0 +1,31 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Grant write permissions for auto-commit
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Commit and push generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: |
+            chore: generate snake game assets
+
+            Co-authored-by: José Alejandro Jiménez Vásquez <jajimenez4@eafit.edu.co>
+            Co-authored-by: José Alejandro Jiménez Vásquez <j.mnzz.333@gmail.com>
+          branch: main
+          file_pattern: dist/*
